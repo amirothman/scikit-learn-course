@@ -1,0 +1,2 @@
+https://www.kaggle.com/enerrio/scikit-learn-ml-from-start-to-finish
+https://www.kaggle.com/nirajvermafcb/principal-component-analysis-with-scikit-learn
